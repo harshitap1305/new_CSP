@@ -1,1 +1,1 @@
-to have some conflict, adding content to file2.txt by REpo2
+new content from repo 1 to file2.txt
