@@ -1,3 +1,1 @@
-This is a sample file for CSP203 lab14
-
-Adding some lines.. modified sample.txt
+this is message from user 2
