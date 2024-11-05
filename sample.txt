@@ -1,1 +1,1 @@
-conflict in sample file
+New content added after conflict
