@@ -1,1 +1,1 @@
-Content from first repo to file2.txt
+to have some conflict, adding content to file2.txt by REpo2
